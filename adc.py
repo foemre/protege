@@ -1,18 +1,17 @@
-import smbus
 import time
+import Adafruit_ADS1x15
 
-address = 0x48
-ain0 = 0x40
-ain1 = 0x41
-ain2 = 0x42
-ain3 = 0x43
+'''
+J5 – Connects LDR to channel 0 (AIN0)
+J4 – Connects thermistor to channel 1 (AIN1)
+J6 – Connects the potentiometer to channel 3 (AIN3)
+'''
 
-tempread = ain2
-
-bus = smbus.SMBus(1)
+adc = Adafruit_ADS1x15.ADS1115()
+channel = 3
+gain = 1
 
 while True:
-	bus.write_byte(address, tempread)
-	value = bus.read_byte(address)
+	value = adc.read_adc(channel, gain=gain)
 	print(value)
 	time.sleep(0.1)
