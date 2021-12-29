@@ -14,9 +14,11 @@ gain = 1 #ignore this
 
 while True:
 		value = adc.read_adc(tempread, gain=gain)
-		print(value)
-		if value < 22680: #room temp
+		temp = 0.0579*value-1294.2 # calibrated, fitted to this line
+		str_temp = "Temperature: {temp:.2f} C\nADC Value: {value}".format(temp=temp, value=value)
+		print(str_temp)
+		if value < 25: #room temp
 				GPIO.output(18,GPIO.HIGH)
 		else:
 				GPIO.output(18,GPIO.LOW)
-		time.sleep(0.1)
+		time.sleep(0.2)
