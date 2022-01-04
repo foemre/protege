@@ -3,13 +3,13 @@ import time
 import Adafruit_ADS1x15
 
 adc = Adafruit_ADS1x15.ADS1115()
-channel = 3
+channel = 0
 gain = 1
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
-GPIO.setup(18,GPIO.OUT)
+GPIO.setup(20,GPIO.OUT)
 
-tempread = 3
+tempread = 0
 gain = 1 #ignore this
 
 while True:
@@ -17,8 +17,10 @@ while True:
 		temp = 0.0579*value-1294.2 # calibrated, fitted to this line
 		str_temp = "Temperature: {temp:.2f} C\nADC Value: {value}".format(temp=temp, value=value)
 		print(str_temp)
-		if value < 25: #room temp
-				GPIO.output(18,GPIO.HIGH)
+		if temp < 25: #room temp
+				print(GPIO.output(20,GPIO.HIGH))
+				print("HeaterON")
 		else:
-				GPIO.output(18,GPIO.LOW)
+				print(GPIO.output(20,GPIO.LOW))
+				print("HeaterOFF")
 		time.sleep(0.2)
