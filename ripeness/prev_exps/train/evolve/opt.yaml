@@ -1,0 +1,69 @@
+weights: ''
+cfg: ./models/v5Lite-s.yaml
+data: data/laborotomato.yaml
+hyp:
+  lr0: 0.01297
+  lrf: 0.01606
+  momentum: 0.79812
+  weight_decay: 0.00034
+  warmup_epochs: 3.56405
+  warmup_momentum: 0.44782
+  warmup_bias_lr: 0.06284
+  box: 0.0403
+  cls: 0.021116999999999997
+  cls_pw: 0.51598
+  obj: 0.061600000000000016
+  obj_pw: 0.92915
+  iou_t: 0.212
+  anchor_t: 4.37364
+  anchors: 2.95257
+  fl_gamma: 0.0
+  hsv_h: 0.0789
+  hsv_s: 0.10224
+  hsv_v: 0.21074
+  degrees: 11.8
+  translate: 0.0561
+  scale: 0.33313
+  shear: 0.0
+  perspective: 0.0
+  flipud: 0.29633
+  fliplr: 0.5
+  mosaic: 0.13858
+  mixup: 0.0
+  label_smoothing: 0.0
+epochs: 48
+batch_size: 64
+img_size:
+- 256
+- 256
+rect: false
+resume: false
+nosave: true
+notest: true
+noautoanchor: false
+evolve: true
+bucket: ''
+cache_images: true
+image_weights: false
+device: ''
+multi_scale: false
+single_cls: false
+adam: true
+sync_bn: false
+local_rank: -1
+workers: 8
+project: runs/train
+entity: null
+name: evolve
+exist_ok: false
+quad: false
+linear_lr: false
+label_smoothing: 0.0
+upload_dataset: false
+bbox_interval: -1
+save_period: -1
+artifact_alias: latest
+world_size: 1
+global_rank: -1
+save_dir: runs/train/evolve
+total_batch_size: 64
