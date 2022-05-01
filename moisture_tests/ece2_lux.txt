@@ -1,0 +1,4080 @@
+Value: 115.42 Lux
+Moving avg: 5.77
+Stddev: 25.15
+Coeff of variance: 435.890 %
+
+Value: 115.42 Lux
+Moving avg: 11.54
+Stddev: 34.62
+Coeff of variance: 300.000 %
+
+Value: 115.42 Lux
+Moving avg: 17.31
+Stddev: 41.21
+Coeff of variance: 238.048 %
+
+Value: 115.83 Lux
+Moving avg: 23.10
+Stddev: 46.21
+Coeff of variance: 200.000 %
+
+Value: 115.83 Lux
+Moving avg: 28.90
+Stddev: 50.05
+Coeff of variance: 173.205 %
+
+Value: 115.83 Lux
+Moving avg: 34.69
+Stddev: 52.99
+Coeff of variance: 152.753 %
+
+Value: 115.83 Lux
+Moving avg: 40.48
+Stddev: 55.16
+Coeff of variance: 136.277 %
+
+Value: 115.83 Lux
+Moving avg: 46.27
+Stddev: 56.67
+Coeff of variance: 122.475 %
+
+Value: 115.83 Lux
+Moving avg: 52.06
+Stddev: 57.56
+Coeff of variance: 110.554 %
+
+Value: 115.83 Lux
+Moving avg: 57.85
+Stddev: 57.85
+Coeff of variance: 100.000 %
+
+Value: 115.83 Lux
+Moving avg: 63.65
+Stddev: 57.57
+Coeff of variance: 90.454 %
+
+Value: 115.83 Lux
+Moving avg: 69.44
+Stddev: 56.70
+Coeff of variance: 81.650 %
+
+Value: 115.83 Lux
+Moving avg: 75.23
+Stddev: 55.20
+Coeff of variance: 73.380 %
+
+Value: 115.42 Lux
+Moving avg: 81.00
+Stddev: 53.03
+Coeff of variance: 65.466 %
+
+Value: 115.83 Lux
+Moving avg: 86.79
+Stddev: 50.11
+Coeff of variance: 57.735 %
+
+Value: 115.83 Lux
+Moving avg: 92.58
+Stddev: 46.29
+Coeff of variance: 50.000 %
+
+Value: 115.83 Lux
+Moving avg: 98.37
+Stddev: 41.33
+Coeff of variance: 42.009 %
+
+Value: 115.83 Lux
+Moving avg: 104.17
+Stddev: 34.72
+Coeff of variance: 33.334 %
+
+Value: 115.83 Lux
+Moving avg: 109.96
+Stddev: 25.23
+Coeff of variance: 22.942 %
+
+Value: 115.83 Lux
+Moving avg: 115.75
+Stddev: 0.17
+Coeff of variance: 0.144 %
+
+Value: 116.25 Lux
+Moving avg: 115.79
+Stddev: 0.18
+Coeff of variance: 0.157 %
+
+Value: 116.25 Lux
+Moving avg: 115.83
+Stddev: 0.19
+Coeff of variance: 0.161 %
+
+Value: 116.25 Lux
+Moving avg: 115.88
+Stddev: 0.18
+Coeff of variance: 0.157 %
+
+Value: 116.25 Lux
+Moving avg: 115.90
+Stddev: 0.20
+Coeff of variance: 0.171 %
+
+Value: 116.25 Lux
+Moving avg: 115.92
+Stddev: 0.21
+Coeff of variance: 0.183 %
+
+Value: 116.25 Lux
+Moving avg: 115.94
+Stddev: 0.22
+Coeff of variance: 0.193 %
+
+Value: 118.33 Lux
+Moving avg: 116.06
+Stddev: 0.57
+Coeff of variance: 0.488 %
+
+Value: 118.33 Lux
+Moving avg: 116.19
+Stddev: 0.75
+Coeff of variance: 0.644 %
+
+Value: 118.33 Lux
+Moving avg: 116.31
+Stddev: 0.88
+Coeff of variance: 0.754 %
+
+Value: 118.33 Lux
+Moving avg: 116.44
+Stddev: 0.97
+Coeff of variance: 0.835 %
+
+Value: 118.33 Lux
+Moving avg: 116.56
+Stddev: 1.04
+Coeff of variance: 0.896 %
+
+Value: 118.33 Lux
+Moving avg: 116.69
+Stddev: 1.10
+Coeff of variance: 0.941 %
+
+Value: 118.33 Lux
+Moving avg: 116.81
+Stddev: 1.14
+Coeff of variance: 0.972 %
+
+Value: 119.17 Lux
+Moving avg: 117.00
+Stddev: 1.20
+Coeff of variance: 1.024 %
+
+Value: 119.17 Lux
+Moving avg: 117.17
+Stddev: 1.25
+Coeff of variance: 1.070 %
+
+Value: 118.75 Lux
+Moving avg: 117.31
+Stddev: 1.26
+Coeff of variance: 1.074 %
+
+Value: 118.75 Lux
+Moving avg: 117.46
+Stddev: 1.25
+Coeff of variance: 1.064 %
+
+Value: 119.17 Lux
+Moving avg: 117.62
+Stddev: 1.24
+Coeff of variance: 1.057 %
+
+Value: 119.17 Lux
+Moving avg: 117.79
+Stddev: 1.22
+Coeff of variance: 1.032 %
+
+Value: 119.17 Lux
+Moving avg: 117.96
+Stddev: 1.16
+Coeff of variance: 0.986 %
+
+Value: 119.17 Lux
+Moving avg: 118.10
+Stddev: 1.12
+Coeff of variance: 0.950 %
+
+Value: 119.17 Lux
+Moving avg: 118.25
+Stddev: 1.06
+Coeff of variance: 0.896 %
+
+Value: 119.17 Lux
+Moving avg: 118.40
+Stddev: 0.97
+Coeff of variance: 0.820 %
+
+Value: 119.17 Lux
+Moving avg: 118.54
+Stddev: 0.85
+Coeff of variance: 0.716 %
+
+Value: 119.17 Lux
+Moving avg: 118.69
+Stddev: 0.68
+Coeff of variance: 0.569 %
+
+Value: 119.17 Lux
+Moving avg: 118.83
+Stddev: 0.39
+Coeff of variance: 0.325 %
+
+Value: 119.17 Lux
+Moving avg: 118.88
+Stddev: 0.37
+Coeff of variance: 0.315 %
+
+Value: 119.17 Lux
+Moving avg: 118.92
+Stddev: 0.36
+Coeff of variance: 0.301 %
+
+Value: 119.17 Lux
+Moving avg: 118.96
+Stddev: 0.34
+Coeff of variance: 0.282 %
+
+Value: 119.17 Lux
+Moving avg: 119.00
+Stddev: 0.31
+Coeff of variance: 0.257 %
+
+Value: 119.17 Lux
+Moving avg: 119.04
+Stddev: 0.27
+Coeff of variance: 0.224 %
+
+Value: 119.17 Lux
+Moving avg: 119.08
+Stddev: 0.21
+Coeff of variance: 0.178 %
+
+Value: 119.17 Lux
+Moving avg: 119.12
+Stddev: 0.13
+Coeff of variance: 0.105 %
+
+Value: 119.17 Lux
+Moving avg: 119.12
+Stddev: 0.13
+Coeff of variance: 0.105 %
+
+Value: 119.17 Lux
+Moving avg: 119.12
+Stddev: 0.13
+Coeff of variance: 0.105 %
+
+Value: 119.17 Lux
+Moving avg: 119.15
+Stddev: 0.09
+Coeff of variance: 0.076 %
+
+Value: 119.17 Lux
+Moving avg: 119.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 119.58 Lux
+Moving avg: 119.19
+Stddev: 0.09
+Coeff of variance: 0.076 %
+
+Value: 119.58 Lux
+Moving avg: 119.21
+Stddev: 0.13
+Coeff of variance: 0.105 %
+
+Value: 119.58 Lux
+Moving avg: 119.23
+Stddev: 0.15
+Coeff of variance: 0.125 %
+
+Value: 119.58 Lux
+Moving avg: 119.25
+Stddev: 0.17
+Coeff of variance: 0.140 %
+
+Value: 119.58 Lux
+Moving avg: 119.27
+Stddev: 0.18
+Coeff of variance: 0.151 %
+
+Value: 119.58 Lux
+Moving avg: 119.29
+Stddev: 0.19
+Coeff of variance: 0.160 %
+
+Value: 119.58 Lux
+Moving avg: 119.31
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 119.58 Lux
+Moving avg: 119.33
+Stddev: 0.20
+Coeff of variance: 0.171 %
+
+Value: 119.58 Lux
+Moving avg: 119.35
+Stddev: 0.21
+Coeff of variance: 0.174 %
+
+Value: 119.58 Lux
+Moving avg: 119.38
+Stddev: 0.21
+Coeff of variance: 0.175 %
+
+Value: 119.58 Lux
+Moving avg: 119.40
+Stddev: 0.21
+Coeff of variance: 0.174 %
+
+Value: 120.00 Lux
+Moving avg: 119.44
+Stddev: 0.24
+Coeff of variance: 0.200 %
+
+Value: 120.00 Lux
+Moving avg: 119.48
+Stddev: 0.26
+Coeff of variance: 0.217 %
+
+Value: 119.58 Lux
+Moving avg: 119.50
+Stddev: 0.25
+Coeff of variance: 0.209 %
+
+Value: 119.58 Lux
+Moving avg: 119.52
+Stddev: 0.24
+Coeff of variance: 0.200 %
+
+Value: 120.00 Lux
+Moving avg: 119.56
+Stddev: 0.25
+Coeff of variance: 0.205 %
+
+Value: 119.58 Lux
+Moving avg: 119.58
+Stddev: 0.23
+Coeff of variance: 0.191 %
+
+Value: 119.58 Lux
+Moving avg: 119.60
+Stddev: 0.21
+Coeff of variance: 0.173 %
+
+Value: 120.00 Lux
+Moving avg: 119.65
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 120.00 Lux
+Moving avg: 119.69
+Stddev: 0.18
+Coeff of variance: 0.151 %
+
+Value: 120.00 Lux
+Moving avg: 119.71
+Stddev: 0.19
+Coeff of variance: 0.160 %
+
+Value: 120.00 Lux
+Moving avg: 119.73
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 120.00 Lux
+Moving avg: 119.75
+Stddev: 0.20
+Coeff of variance: 0.170 %
+
+Value: 120.00 Lux
+Moving avg: 119.77
+Stddev: 0.21
+Coeff of variance: 0.173 %
+
+Value: 120.00 Lux
+Moving avg: 119.79
+Stddev: 0.21
+Coeff of variance: 0.174 %
+
+Value: 120.00 Lux
+Moving avg: 119.81
+Stddev: 0.21
+Coeff of variance: 0.173 %
+
+Value: 120.00 Lux
+Moving avg: 119.83
+Stddev: 0.20
+Coeff of variance: 0.170 %
+
+Value: 120.00 Lux
+Moving avg: 119.85
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 120.00 Lux
+Moving avg: 119.88
+Stddev: 0.19
+Coeff of variance: 0.159 %
+
+Value: 120.00 Lux
+Moving avg: 119.90
+Stddev: 0.18
+Coeff of variance: 0.150 %
+
+Value: 120.00 Lux
+Moving avg: 119.92
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.00 Lux
+Moving avg: 119.92
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.00 Lux
+Moving avg: 119.92
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.00 Lux
+Moving avg: 119.94
+Stddev: 0.15
+Coeff of variance: 0.124 %
+
+Value: 120.00 Lux
+Moving avg: 119.96
+Stddev: 0.12
+Coeff of variance: 0.104 %
+
+Value: 120.00 Lux
+Moving avg: 119.96
+Stddev: 0.12
+Coeff of variance: 0.104 %
+
+Value: 120.00 Lux
+Moving avg: 119.98
+Stddev: 0.09
+Coeff of variance: 0.076 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.00 Lux
+Moving avg: 120.00
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.42 Lux
+Moving avg: 120.02
+Stddev: 0.09
+Coeff of variance: 0.076 %
+
+Value: 120.42 Lux
+Moving avg: 120.04
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.00 Lux
+Moving avg: 120.04
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.00 Lux
+Moving avg: 120.04
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.42 Lux
+Moving avg: 120.06
+Stddev: 0.15
+Coeff of variance: 0.124 %
+
+Value: 120.42 Lux
+Moving avg: 120.08
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.42 Lux
+Moving avg: 120.10
+Stddev: 0.18
+Coeff of variance: 0.150 %
+
+Value: 120.00 Lux
+Moving avg: 120.10
+Stddev: 0.18
+Coeff of variance: 0.150 %
+
+Value: 120.00 Lux
+Moving avg: 120.10
+Stddev: 0.18
+Coeff of variance: 0.150 %
+
+Value: 120.42 Lux
+Moving avg: 120.13
+Stddev: 0.19
+Coeff of variance: 0.159 %
+
+Value: 120.42 Lux
+Moving avg: 120.15
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 120.42 Lux
+Moving avg: 120.17
+Stddev: 0.20
+Coeff of variance: 0.170 %
+
+Value: 120.42 Lux
+Moving avg: 120.19
+Stddev: 0.21
+Coeff of variance: 0.172 %
+
+Value: 120.42 Lux
+Moving avg: 120.21
+Stddev: 0.21
+Coeff of variance: 0.173 %
+
+Value: 120.42 Lux
+Moving avg: 120.23
+Stddev: 0.21
+Coeff of variance: 0.172 %
+
+Value: 120.42 Lux
+Moving avg: 120.25
+Stddev: 0.20
+Coeff of variance: 0.170 %
+
+Value: 120.42 Lux
+Moving avg: 120.27
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 120.42 Lux
+Moving avg: 120.29
+Stddev: 0.19
+Coeff of variance: 0.159 %
+
+Value: 120.42 Lux
+Moving avg: 120.31
+Stddev: 0.18
+Coeff of variance: 0.150 %
+
+Value: 120.42 Lux
+Moving avg: 120.33
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.42 Lux
+Moving avg: 120.33
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.42 Lux
+Moving avg: 120.33
+Stddev: 0.17
+Coeff of variance: 0.139 %
+
+Value: 120.42 Lux
+Moving avg: 120.35
+Stddev: 0.15
+Coeff of variance: 0.124 %
+
+Value: 120.42 Lux
+Moving avg: 120.38
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.42 Lux
+Moving avg: 120.38
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.42 Lux
+Moving avg: 120.38
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.42 Lux
+Moving avg: 120.38
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.42 Lux
+Moving avg: 120.40
+Stddev: 0.09
+Coeff of variance: 0.075 %
+
+Value: 120.42 Lux
+Moving avg: 120.42
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.42 Lux
+Moving avg: 120.42
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 120.83 Lux
+Moving avg: 120.44
+Stddev: 0.09
+Coeff of variance: 0.075 %
+
+Value: 120.83 Lux
+Moving avg: 120.46
+Stddev: 0.13
+Coeff of variance: 0.104 %
+
+Value: 120.83 Lux
+Moving avg: 120.48
+Stddev: 0.15
+Coeff of variance: 0.123 %
+
+Value: 120.83 Lux
+Moving avg: 120.50
+Stddev: 0.17
+Coeff of variance: 0.138 %
+
+Value: 120.83 Lux
+Moving avg: 120.52
+Stddev: 0.18
+Coeff of variance: 0.150 %
+
+Value: 120.83 Lux
+Moving avg: 120.54
+Stddev: 0.19
+Coeff of variance: 0.158 %
+
+Value: 121.25 Lux
+Moving avg: 120.58
+Stddev: 0.24
+Coeff of variance: 0.201 %
+
+Value: 121.67 Lux
+Moving avg: 120.65
+Stddev: 0.34
+Coeff of variance: 0.278 %
+
+Value: 121.67 Lux
+Moving avg: 120.71
+Stddev: 0.40
+Coeff of variance: 0.329 %
+
+Value: 121.25 Lux
+Moving avg: 120.75
+Stddev: 0.41
+Coeff of variance: 0.338 %
+
+Value: 121.25 Lux
+Moving avg: 120.79
+Stddev: 0.41
+Coeff of variance: 0.343 %
+
+Value: 121.25 Lux
+Moving avg: 120.83
+Stddev: 0.42
+Coeff of variance: 0.345 %
+
+Value: 121.25 Lux
+Moving avg: 120.88
+Stddev: 0.41
+Coeff of variance: 0.343 %
+
+Value: 121.25 Lux
+Moving avg: 120.92
+Stddev: 0.41
+Coeff of variance: 0.338 %
+
+Value: 121.25 Lux
+Moving avg: 120.96
+Stddev: 0.40
+Coeff of variance: 0.329 %
+
+Value: 121.67 Lux
+Moving avg: 121.02
+Stddev: 0.41
+Coeff of variance: 0.335 %
+
+Value: 121.67 Lux
+Moving avg: 121.08
+Stddev: 0.40
+Coeff of variance: 0.334 %
+
+Value: 121.67 Lux
+Moving avg: 121.15
+Stddev: 0.39
+Coeff of variance: 0.324 %
+
+Value: 121.67 Lux
+Moving avg: 121.21
+Stddev: 0.37
+Coeff of variance: 0.306 %
+
+Value: 121.67 Lux
+Moving avg: 121.27
+Stddev: 0.34
+Coeff of variance: 0.276 %
+
+Value: 121.67 Lux
+Moving avg: 121.31
+Stddev: 0.33
+Coeff of variance: 0.272 %
+
+Value: 121.67 Lux
+Moving avg: 121.35
+Stddev: 0.32
+Coeff of variance: 0.263 %
+
+Value: 121.67 Lux
+Moving avg: 121.40
+Stddev: 0.30
+Coeff of variance: 0.249 %
+
+Value: 121.25 Lux
+Moving avg: 121.42
+Stddev: 0.28
+Coeff of variance: 0.228 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.25
+Coeff of variance: 0.202 %
+
+Value: 121.67 Lux
+Moving avg: 121.48
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.48
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.46
+Stddev: 0.21
+Coeff of variance: 0.172 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.25 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.46
+Stddev: 0.21
+Coeff of variance: 0.172 %
+
+Value: 121.67 Lux
+Moving avg: 121.48
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.48
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.50
+Stddev: 0.20
+Coeff of variance: 0.168 %
+
+Value: 121.67 Lux
+Moving avg: 121.52
+Stddev: 0.20
+Coeff of variance: 0.164 %
+
+Value: 121.67 Lux
+Moving avg: 121.54
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 121.67 Lux
+Moving avg: 121.56
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.58
+Stddev: 0.17
+Coeff of variance: 0.137 %
+
+Value: 121.67 Lux
+Moving avg: 121.60
+Stddev: 0.15
+Coeff of variance: 0.122 %
+
+Value: 121.67 Lux
+Moving avg: 121.62
+Stddev: 0.13
+Coeff of variance: 0.103 %
+
+Value: 121.67 Lux
+Moving avg: 121.65
+Stddev: 0.09
+Coeff of variance: 0.075 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 121.67 Lux
+Moving avg: 121.67
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 121.69
+Stddev: 0.09
+Coeff of variance: 0.075 %
+
+Value: 122.08 Lux
+Moving avg: 121.71
+Stddev: 0.13
+Coeff of variance: 0.103 %
+
+Value: 121.67 Lux
+Moving avg: 121.71
+Stddev: 0.13
+Coeff of variance: 0.103 %
+
+Value: 121.67 Lux
+Moving avg: 121.71
+Stddev: 0.13
+Coeff of variance: 0.103 %
+
+Value: 121.67 Lux
+Moving avg: 121.71
+Stddev: 0.13
+Coeff of variance: 0.103 %
+
+Value: 122.08 Lux
+Moving avg: 121.73
+Stddev: 0.15
+Coeff of variance: 0.122 %
+
+Value: 122.08 Lux
+Moving avg: 121.75
+Stddev: 0.17
+Coeff of variance: 0.137 %
+
+Value: 122.08 Lux
+Moving avg: 121.77
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 122.08 Lux
+Moving avg: 121.79
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 122.08 Lux
+Moving avg: 121.81
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 122.08 Lux
+Moving avg: 121.83
+Stddev: 0.20
+Coeff of variance: 0.168 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.92
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 122.08 Lux
+Moving avg: 121.94
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 122.08 Lux
+Moving avg: 121.96
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 122.08 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 122.08 Lux
+Moving avg: 122.00
+Stddev: 0.17
+Coeff of variance: 0.137 %
+
+Value: 122.08 Lux
+Moving avg: 122.00
+Stddev: 0.17
+Coeff of variance: 0.137 %
+
+Value: 121.67 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.96
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 121.67 Lux
+Moving avg: 121.94
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 121.67 Lux
+Moving avg: 121.92
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 121.67 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.87
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.92
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 122.08 Lux
+Moving avg: 121.92
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 121.67 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.87
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 121.67 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 121.67 Lux
+Moving avg: 121.83
+Stddev: 0.20
+Coeff of variance: 0.168 %
+
+Value: 121.67 Lux
+Moving avg: 121.81
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 121.67 Lux
+Moving avg: 121.79
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 121.67 Lux
+Moving avg: 121.77
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 121.67 Lux
+Moving avg: 121.75
+Stddev: 0.17
+Coeff of variance: 0.137 %
+
+Value: 122.08 Lux
+Moving avg: 121.77
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 122.08 Lux
+Moving avg: 121.79
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 122.08 Lux
+Moving avg: 121.81
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 122.08 Lux
+Moving avg: 121.83
+Stddev: 0.20
+Coeff of variance: 0.168 %
+
+Value: 122.08 Lux
+Moving avg: 121.85
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.88
+Stddev: 0.21
+Coeff of variance: 0.171 %
+
+Value: 122.08 Lux
+Moving avg: 121.90
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.08 Lux
+Moving avg: 121.92
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 122.08 Lux
+Moving avg: 121.94
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 122.08 Lux
+Moving avg: 121.96
+Stddev: 0.19
+Coeff of variance: 0.157 %
+
+Value: 122.08 Lux
+Moving avg: 121.98
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 122.08 Lux
+Moving avg: 122.00
+Stddev: 0.17
+Coeff of variance: 0.137 %
+
+Value: 122.08 Lux
+Moving avg: 122.02
+Stddev: 0.15
+Coeff of variance: 0.122 %
+
+Value: 122.08 Lux
+Moving avg: 122.04
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.08 Lux
+Moving avg: 122.06
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.08 Lux
+Moving avg: 122.08
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.50 Lux
+Moving avg: 122.10
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.50 Lux
+Moving avg: 122.12
+Stddev: 0.12
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.15
+Stddev: 0.15
+Coeff of variance: 0.122 %
+
+Value: 122.50 Lux
+Moving avg: 122.17
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.50 Lux
+Moving avg: 122.19
+Stddev: 0.18
+Coeff of variance: 0.148 %
+
+Value: 122.50 Lux
+Moving avg: 122.21
+Stddev: 0.19
+Coeff of variance: 0.156 %
+
+Value: 122.50 Lux
+Moving avg: 122.23
+Stddev: 0.20
+Coeff of variance: 0.163 %
+
+Value: 122.50 Lux
+Moving avg: 122.25
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 122.50 Lux
+Moving avg: 122.27
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.29
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.31
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.50 Lux
+Moving avg: 122.33
+Stddev: 0.20
+Coeff of variance: 0.167 %
+
+Value: 122.50 Lux
+Moving avg: 122.35
+Stddev: 0.20
+Coeff of variance: 0.162 %
+
+Value: 122.50 Lux
+Moving avg: 122.38
+Stddev: 0.19
+Coeff of variance: 0.156 %
+
+Value: 122.50 Lux
+Moving avg: 122.40
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.50 Lux
+Moving avg: 122.42
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.50 Lux
+Moving avg: 122.44
+Stddev: 0.15
+Coeff of variance: 0.122 %
+
+Value: 122.50 Lux
+Moving avg: 122.46
+Stddev: 0.12
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.50
+Stddev: 0.13
+Coeff of variance: 0.108 %
+
+Value: 122.92 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.56
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.58
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.60
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.60
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.60
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.62
+Stddev: 0.19
+Coeff of variance: 0.156 %
+
+Value: 122.92 Lux
+Moving avg: 122.65
+Stddev: 0.20
+Coeff of variance: 0.162 %
+
+Value: 122.92 Lux
+Moving avg: 122.67
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 122.92 Lux
+Moving avg: 122.69
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.50 Lux
+Moving avg: 122.69
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.50 Lux
+Moving avg: 122.69
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.50 Lux
+Moving avg: 122.67
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 122.50 Lux
+Moving avg: 122.65
+Stddev: 0.20
+Coeff of variance: 0.162 %
+
+Value: 122.50 Lux
+Moving avg: 122.62
+Stddev: 0.19
+Coeff of variance: 0.156 %
+
+Value: 122.50 Lux
+Moving avg: 122.60
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.50 Lux
+Moving avg: 122.58
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.50 Lux
+Moving avg: 122.56
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.56
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.54
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.56
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.58
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.60
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.62
+Stddev: 0.19
+Coeff of variance: 0.156 %
+
+Value: 122.92 Lux
+Moving avg: 122.65
+Stddev: 0.20
+Coeff of variance: 0.162 %
+
+Value: 122.92 Lux
+Moving avg: 122.67
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 122.92 Lux
+Moving avg: 122.69
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 122.71
+Stddev: 0.21
+Coeff of variance: 0.170 %
+
+Value: 122.92 Lux
+Moving avg: 122.73
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 122.75
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 122.92 Lux
+Moving avg: 122.77
+Stddev: 0.20
+Coeff of variance: 0.162 %
+
+Value: 122.92 Lux
+Moving avg: 122.79
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 122.81
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.81
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.81
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.85
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.90
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 122.94
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.92 Lux
+Moving avg: 122.94
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.92 Lux
+Moving avg: 122.94
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 123.33 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 123.33 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.94
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 122.94
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 123.33 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 123.33 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 123.33 Lux
+Moving avg: 123.00
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 123.00
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 123.00
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 123.33 Lux
+Moving avg: 123.02
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 123.33 Lux
+Moving avg: 123.04
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 123.33 Lux
+Moving avg: 123.06
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 122.92 Lux
+Moving avg: 123.06
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 122.92 Lux
+Moving avg: 123.06
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 122.92 Lux
+Moving avg: 123.06
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 123.33 Lux
+Moving avg: 123.08
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 123.33 Lux
+Moving avg: 123.10
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 122.92 Lux
+Moving avg: 123.10
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 122.92 Lux
+Moving avg: 123.10
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 123.33 Lux
+Moving avg: 123.12
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 123.12
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 123.12
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 123.12
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 122.92 Lux
+Moving avg: 123.10
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 122.92 Lux
+Moving avg: 123.08
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 122.92 Lux
+Moving avg: 123.06
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 122.92 Lux
+Moving avg: 123.04
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 123.04
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 123.04
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 123.02
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 123.00
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 123.33 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 123.33 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.94
+Stddev: 0.16
+Coeff of variance: 0.130 %
+
+Value: 122.50 Lux
+Moving avg: 122.92
+Stddev: 0.19
+Coeff of variance: 0.152 %
+
+Value: 122.92 Lux
+Moving avg: 122.90
+Stddev: 0.16
+Coeff of variance: 0.130 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.50 Lux
+Moving avg: 122.85
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.50 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.50 Lux
+Moving avg: 122.81
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.50 Lux
+Moving avg: 122.79
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 122.79
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 122.79
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 122.79
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 122.79
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 122.81
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.83
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 122.92 Lux
+Moving avg: 122.85
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.88
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 122.92 Lux
+Moving avg: 122.90
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 122.92 Lux
+Moving avg: 122.92
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 122.94
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 123.33 Lux
+Moving avg: 122.96
+Stddev: 0.13
+Coeff of variance: 0.102 %
+
+Value: 123.33 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 122.92 Lux
+Moving avg: 122.98
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 123.33 Lux
+Moving avg: 123.00
+Stddev: 0.17
+Coeff of variance: 0.136 %
+
+Value: 123.33 Lux
+Moving avg: 123.02
+Stddev: 0.18
+Coeff of variance: 0.147 %
+
+Value: 123.33 Lux
+Moving avg: 123.04
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 123.33 Lux
+Moving avg: 123.06
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 123.33 Lux
+Moving avg: 123.08
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 123.33 Lux
+Moving avg: 123.10
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 123.33 Lux
+Moving avg: 123.12
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 123.33 Lux
+Moving avg: 123.15
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 123.33 Lux
+Moving avg: 123.17
+Stddev: 0.20
+Coeff of variance: 0.166 %
+
+Value: 123.33 Lux
+Moving avg: 123.19
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 123.33 Lux
+Moving avg: 123.21
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 123.21
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 122.92 Lux
+Moving avg: 123.21
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 123.33 Lux
+Moving avg: 123.23
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 123.33 Lux
+Moving avg: 123.25
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.33 Lux
+Moving avg: 123.25
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.33 Lux
+Moving avg: 123.25
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.33 Lux
+Moving avg: 123.25
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.33 Lux
+Moving avg: 123.27
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.29
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.31
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 123.33 Lux
+Moving avg: 123.33
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 123.33
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 123.33
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 123.33
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 123.33
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.35
+Stddev: 0.09
+Coeff of variance: 0.074 %
+
+Value: 123.75 Lux
+Moving avg: 123.38
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.38
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 123.40
+Stddev: 0.15
+Coeff of variance: 0.121 %
+
+Value: 123.75 Lux
+Moving avg: 123.42
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.44
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 123.33 Lux
+Moving avg: 123.44
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 123.33 Lux
+Moving avg: 123.44
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 123.75 Lux
+Moving avg: 123.46
+Stddev: 0.19
+Coeff of variance: 0.155 %
+
+Value: 123.75 Lux
+Moving avg: 123.48
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 123.75 Lux
+Moving avg: 123.50
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 123.75 Lux
+Moving avg: 123.52
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 123.75 Lux
+Moving avg: 123.54
+Stddev: 0.21
+Coeff of variance: 0.169 %
+
+Value: 123.75 Lux
+Moving avg: 123.56
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 123.75 Lux
+Moving avg: 123.58
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 123.75 Lux
+Moving avg: 123.60
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 123.75 Lux
+Moving avg: 123.62
+Stddev: 0.19
+Coeff of variance: 0.154 %
+
+Value: 123.75 Lux
+Moving avg: 123.65
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.69
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.75 Lux
+Moving avg: 123.69
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.75 Lux
+Moving avg: 123.69
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.75 Lux
+Moving avg: 123.71
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 123.71
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 123.71
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 123.71
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 123.73
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 123.75
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.33 Lux
+Moving avg: 123.73
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 123.33 Lux
+Moving avg: 123.71
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.33 Lux
+Moving avg: 123.69
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.33 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.67
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.69
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.75 Lux
+Moving avg: 123.71
+Stddev: 0.12
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 123.73
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 124.17 Lux
+Moving avg: 123.77
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 124.17 Lux
+Moving avg: 123.79
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 123.81
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 124.17 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 124.17 Lux
+Moving avg: 123.85
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 124.17 Lux
+Moving avg: 123.88
+Stddev: 0.19
+Coeff of variance: 0.154 %
+
+Value: 124.17 Lux
+Moving avg: 123.90
+Stddev: 0.20
+Coeff of variance: 0.160 %
+
+Value: 124.17 Lux
+Moving avg: 123.92
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 124.17 Lux
+Moving avg: 123.94
+Stddev: 0.21
+Coeff of variance: 0.167 %
+
+Value: 124.17 Lux
+Moving avg: 123.96
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 124.17 Lux
+Moving avg: 123.98
+Stddev: 0.21
+Coeff of variance: 0.167 %
+
+Value: 124.17 Lux
+Moving avg: 124.00
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 124.17 Lux
+Moving avg: 124.02
+Stddev: 0.20
+Coeff of variance: 0.160 %
+
+Value: 124.17 Lux
+Moving avg: 124.04
+Stddev: 0.19
+Coeff of variance: 0.154 %
+
+Value: 124.17 Lux
+Moving avg: 124.06
+Stddev: 0.18
+Coeff of variance: 0.145 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.10
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.15
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.58 Lux
+Moving avg: 124.19
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 124.58 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.21
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 124.19
+Stddev: 0.16
+Coeff of variance: 0.129 %
+
+Value: 123.75 Lux
+Moving avg: 124.17
+Stddev: 0.19
+Coeff of variance: 0.150 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.19
+Coeff of variance: 0.150 %
+
+Value: 124.17 Lux
+Moving avg: 124.15
+Stddev: 0.16
+Coeff of variance: 0.129 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 124.10
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.75 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 124.17 Lux
+Moving avg: 124.10
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.12
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 124.17 Lux
+Moving avg: 124.15
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 124.17 Lux
+Moving avg: 124.17
+Stddev: 0.00
+Coeff of variance: 0.000 %
+
+Value: 123.75 Lux
+Moving avg: 124.15
+Stddev: 0.09
+Coeff of variance: 0.073 %
+
+Value: 123.75 Lux
+Moving avg: 124.13
+Stddev: 0.13
+Coeff of variance: 0.101 %
+
+Value: 123.75 Lux
+Moving avg: 124.10
+Stddev: 0.15
+Coeff of variance: 0.120 %
+
+Value: 123.75 Lux
+Moving avg: 124.08
+Stddev: 0.17
+Coeff of variance: 0.134 %
+
+Value: 123.75 Lux
+Moving avg: 124.06
+Stddev: 0.18
+Coeff of variance: 0.145 %
+
+Value: 123.75 Lux
+Moving avg: 124.04
+Stddev: 0.19
+Coeff of variance: 0.154 %
+
+Value: 123.75 Lux
+Moving avg: 124.02
+Stddev: 0.20
+Coeff of variance: 0.160 %
+
+Value: 123.75 Lux
+Moving avg: 124.00
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 124.17 Lux
+Moving avg: 124.00
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 124.17 Lux
+Moving avg: 124.00
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 124.17 Lux
+Moving avg: 124.00
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 124.17 Lux
+Moving avg: 124.00
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 123.75 Lux
+Moving avg: 123.98
+Stddev: 0.21
+Coeff of variance: 0.167 %
+
+Value: 123.75 Lux
+Moving avg: 123.96
+Stddev: 0.21
+Coeff of variance: 0.168 %
+
+Value: 123.75 Lux
+Moving avg: 123.94
+Stddev: 0.21
+Coeff of variance: 0.167 %
+
+Value: 123.75 Lux
+Moving avg: 123.92
+Stddev: 0.20
+Coeff of variance: 0.165 %
+
+Value: 123.75 Lux
+Moving avg: 123.90
+Stddev: 0.20
+Coeff of variance: 0.160 %
+
+Value: 123.75 Lux
+Moving avg: 123.88
+Stddev: 0.19
+Coeff of variance: 0.154 %
+
+Value: 123.75 Lux
+Moving avg: 123.85
+Stddev: 0.18
+Coeff of variance: 0.146 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.75 Lux
+Moving avg: 123.83
+Stddev: 0.17
+Coeff of variance: 0.135 %
+
+Value: 123.33 Lux
+Moving avg: 123.81
+Stddev: 0.20
+Coeff of variance: 0.161 %
+
+Value: 123.33 Lux
+Moving avg: 123.79
+Stddev: 0.22
+Coeff of variance: 0.181 %
+
+Value: 123.33 Lux
+Moving avg: 123.77
+Stddev: 0.25
+Coeff of variance: 0.198 %
+
+Value: 123.33 Lux
+Moving avg: 123.75
+Stddev: 0.26
+Coeff of variance: 0.213 %
+
+Value: 123.33 Lux
+Moving avg: 123.71
+Stddev: 0.26
+Coeff of variance: 0.210 %
+
+Value: 123.33 Lux
+Moving avg: 123.67
+Stddev: 0.25
+Coeff of variance: 0.202 %
+
+Value: 122.92 Lux
+Moving avg: 123.60
+Stddev: 0.27
+Coeff of variance: 0.220 %
+
+Value: 122.92 Lux
+Moving avg: 123.54
+Stddev: 0.28
+Coeff of variance: 0.226 %
+
+Value: 122.08 Lux
+Moving avg: 123.46
+Stddev: 0.42
+Coeff of variance: 0.339 %
+
+Value: 121.67 Lux
+Moving avg: 123.35
+Stddev: 0.57
+Coeff of variance: 0.459 %
+
+Value: 121.67 Lux
+Moving avg: 123.25
+Stddev: 0.67
+Coeff of variance: 0.541 %
+
+Value: 121.67 Lux
+Moving avg: 123.15
+Stddev: 0.74
+Coeff of variance: 0.600 %
+
+Value: 121.67 Lux
+Moving avg: 123.04
+Stddev: 0.79
+Coeff of variance: 0.643 %
+
+Value: 121.67 Lux
+Moving avg: 122.94
+Stddev: 0.83
+Coeff of variance: 0.673 %
+
+Value: 121.25 Lux
+Moving avg: 122.81
+Stddev: 0.88
+Coeff of variance: 0.719 %
+
+Value: 121.25 Lux
+Moving avg: 122.69
+Stddev: 0.92
+Coeff of variance: 0.748 %
+
+Value: 121.67 Lux
+Moving avg: 122.58
+Stddev: 0.91
+Coeff of variance: 0.742 %
+
+Value: 121.25 Lux
+Moving avg: 122.46
+Stddev: 0.91
+Coeff of variance: 0.745 %
+
+Value: 121.25 Lux
+Moving avg: 122.33
+Stddev: 0.90
+Coeff of variance: 0.734 %
+
+Value: 121.25 Lux
+Moving avg: 122.21
+Stddev: 0.87
+Coeff of variance: 0.708 %
+
+Value: 120.83 Lux
+Moving avg: 122.08
+Stddev: 0.87
+Coeff of variance: 0.716 %
+
+Value: 121.25 Lux
+Moving avg: 121.98
+Stddev: 0.84
+Coeff of variance: 0.691 %
+
+Value: 121.25 Lux
+Moving avg: 121.88
+Stddev: 0.80
+Coeff of variance: 0.653 %
+
+Value: 121.25 Lux
+Moving avg: 121.77
+Stddev: 0.73
+Coeff of variance: 0.601 %
+
+Value: 121.25 Lux
+Moving avg: 121.67
+Stddev: 0.65
+Coeff of variance: 0.531 %
+
+Value: 121.25 Lux
+Moving avg: 121.56
+Stddev: 0.52
+Coeff of variance: 0.432 %
+
+Value: 121.67 Lux
+Moving avg: 121.50
+Stddev: 0.42
+Coeff of variance: 0.350 %
+
+Value: 121.67 Lux
+Moving avg: 121.44
+Stddev: 0.28
+Coeff of variance: 0.230 %
+

@@ -1,0 +1,870 @@
+ 17296 8156 4703
+Mean  10051.666666666666
+Stddev 5312.94
+Coefficient of variation = 52.86  %
+Current time: 0 seconds
+ 17295 8156 4697
+Mean  10049.333333333334
+Stddev 5314.50
+Coefficient of variation = 52.88  %
+Current time: 1 seconds
+ 17295 8159 4700
+Mean  10051.333333333334
+Stddev 5313.14
+Coefficient of variation = 52.86  %
+Current time: 2 seconds
+ 17295 8156 4705
+Mean  10052.0
+Stddev 5311.82
+Coefficient of variation = 52.84  %
+Current time: 3 seconds
+ 17295 8157 4702
+Mean  10051.333333333334
+Stddev 5312.71
+Coefficient of variation = 52.86  %
+Current time: 4 seconds
+ 17298 8158 4774
+Mean  10076.666666666666
+Stddev 5289.84
+Coefficient of variation = 52.50  %
+Current time: 5 seconds
+ 17297 8159 4701
+Mean  10052.333333333334
+Stddev 5313.71
+Coefficient of variation = 52.86  %
+Current time: 6 seconds
+ 17297 8137 4704
+Mean  10046.0
+Stddev 5315.33
+Coefficient of variation = 52.91  %
+Current time: 7 seconds
+ 17297 8045 4701
+Mean  10014.333333333334
+Stddev 5327.51
+Coefficient of variation = 53.20  %
+Current time: 8 seconds
+ 17296 7983 4700
+Mean  9993.0
+Stddev 5335.10
+Coefficient of variation = 53.39  %
+Current time: 9 seconds
+ 17294 7943 4691
+Mean  9976.0
+Stddev 5342.20
+Coefficient of variation = 53.55  %
+Current time: 10 seconds
+ 17293 7922 4708
+Mean  9974.333333333334
+Stddev 5338.83
+Coefficient of variation = 53.53  %
+Current time: 11 seconds
+ 17295 7910 4703
+Mean  9969.333333333334
+Stddev 5342.92
+Coefficient of variation = 53.59  %
+Current time: 12 seconds
+ 17295 7899 4706
+Mean  9966.666666666666
+Stddev 5343.36
+Coefficient of variation = 53.61  %
+Current time: 13 seconds
+ 17295 7892 4701
+Mean  9962.666666666666
+Stddev 5345.90
+Coefficient of variation = 53.66  %
+Current time: 14 seconds
+ 17294 7891 4703
+Mean  9962.666666666666
+Stddev 5344.91
+Coefficient of variation = 53.65  %
+Current time: 15 seconds
+ 17295 7892 4695
+Mean  9960.666666666666
+Stddev 5347.87
+Coefficient of variation = 53.69  %
+Current time: 16 seconds
+ 17296 7891 4706
+Mean  9964.333333333334
+Stddev 5344.85
+Coefficient of variation = 53.64  %
+Current time: 17 seconds
+ 17296 7894 4704
+Mean  9964.666666666666
+Stddev 5345.11
+Coefficient of variation = 53.64  %
+Current time: 18 seconds
+ 17294 7894 4703
+Mean  9963.666666666666
+Stddev 5344.53
+Coefficient of variation = 53.64  %
+Current time: 19 seconds
+ 17293 7895 4706
+Mean  9964.666666666666
+Stddev 5342.96
+Coefficient of variation = 53.62  %
+Current time: 20 seconds
+ 17295 7898 4701
+Mean  9964.666666666666
+Stddev 5345.13
+Coefficient of variation = 53.64  %
+Current time: 21 seconds
+ 17296 7898 4702
+Mean  9965.333333333334
+Stddev 5345.25
+Coefficient of variation = 53.64  %
+Current time: 22 seconds
+ 17295 7895 4702
+Mean  9964.0
+Stddev 5345.18
+Coefficient of variation = 53.64  %
+Current time: 24 seconds
+ 17294 7898 4704
+Mean  9965.333333333334
+Stddev 5343.68
+Coefficient of variation = 53.62  %
+Current time: 25 seconds
+ 17293 7901 4703
+Mean  9965.666666666666
+Stddev 5343.17
+Coefficient of variation = 53.62  %
+Current time: 26 seconds
+ 17293 7902 4704
+Mean  9966.333333333334
+Stddev 5342.71
+Coefficient of variation = 53.61  %
+Current time: 27 seconds
+ 17291 7903 4708
+Mean  9967.333333333334
+Stddev 5340.35
+Coefficient of variation = 53.58  %
+Current time: 28 seconds
+ 17293 7903 4698
+Mean  9964.666666666666
+Stddev 5344.55
+Coefficient of variation = 53.64  %
+Current time: 29 seconds
+ 17293 7906 4702
+Mean  9967.0
+Stddev 5342.85
+Coefficient of variation = 53.61  %
+Current time: 30 seconds
+ 17290 7906 4702
+Mean  9966.0
+Stddev 5341.48
+Coefficient of variation = 53.60  %
+Current time: 31 seconds
+ 17291 7906 4700
+Mean  9965.666666666666
+Stddev 5342.60
+Coefficient of variation = 53.61  %
+Current time: 32 seconds
+ 17291 7903 4704
+Mean  9966.0
+Stddev 5341.67
+Coefficient of variation = 53.60  %
+Current time: 33 seconds
+ 17293 7907 4700
+Mean  9966.666666666666
+Stddev 5343.38
+Coefficient of variation = 53.61  %
+Current time: 34 seconds
+ 17290 7908 4702
+Mean  9966.666666666666
+Stddev 5341.22
+Coefficient of variation = 53.59  %
+Current time: 35 seconds
+ 17291 7908 4694
+Mean  9964.333333333334
+Stddev 5344.31
+Coefficient of variation = 53.63  %
+Current time: 36 seconds
+ 17290 7909 4705
+Mean  9968.0
+Stddev 5340.11
+Coefficient of variation = 53.57  %
+Current time: 37 seconds
+ 17291 7910 4703
+Mean  9968.0
+Stddev 5341.10
+Coefficient of variation = 53.58  %
+Current time: 38 seconds
+ 17290 7913 4708
+Mean  9970.333333333334
+Stddev 5338.61
+Coefficient of variation = 53.54  %
+Current time: 39 seconds
+ 17292 7912 4700
+Mean  9968.0
+Stddev 5342.28
+Coefficient of variation = 53.59  %
+Current time: 40 seconds
+ 17294 7908 4701
+Mean  9967.666666666666
+Stddev 5343.38
+Coefficient of variation = 53.61  %
+Current time: 41 seconds
+ 17290 7914 4704
+Mean  9969.333333333334
+Stddev 5339.80
+Coefficient of variation = 53.56  %
+Current time: 42 seconds
+ 17292 7912 4703
+Mean  9969.0
+Stddev 5341.30
+Coefficient of variation = 53.58  %
+Current time: 43 seconds
+ 17293 7912 4702
+Mean  9969.0
+Stddev 5342.08
+Coefficient of variation = 53.59  %
+Current time: 44 seconds
+ 17293 7913 4706
+Mean  9970.666666666666
+Stddev 5340.64
+Coefficient of variation = 53.56  %
+Current time: 45 seconds
+ 17293 7914 4706
+Mean  9971.0
+Stddev 5340.51
+Coefficient of variation = 53.56  %
+Current time: 46 seconds
+ 17294 7916 4700
+Mean  9970.0
+Stddev 5342.68
+Coefficient of variation = 53.59  %
+Current time: 48 seconds
+ 17293 7916 4705
+Mean  9971.333333333334
+Stddev 5340.58
+Coefficient of variation = 53.56  %
+Current time: 49 seconds
+ 17294 7913 4702
+Mean  9969.666666666666
+Stddev 5342.41
+Coefficient of variation = 53.59  %
+Current time: 50 seconds
+ 17295 7916 4706
+Mean  9972.333333333334
+Stddev 5341.17
+Coefficient of variation = 53.56  %
+Current time: 51 seconds
+ 17294 7917 4705
+Mean  9972.0
+Stddev 5340.91
+Coefficient of variation = 53.56  %
+Current time: 52 seconds
+ 17295 7917 4706
+Mean  9972.666666666666
+Stddev 5341.04
+Coefficient of variation = 53.56  %
+Current time: 53 seconds
+ 17295 7915 4705
+Mean  9971.666666666666
+Stddev 5341.62
+Coefficient of variation = 53.57  %
+Current time: 54 seconds
+ 17294 7918 4701
+Mean  9971.0
+Stddev 5342.10
+Coefficient of variation = 53.58  %
+Current time: 55 seconds
+ 17295 7916 4703
+Mean  9971.333333333334
+Stddev 5342.15
+Coefficient of variation = 53.58  %
+Current time: 56 seconds
+ 17298 7918 4707
+Mean  9974.333333333334
+Stddev 5341.95
+Coefficient of variation = 53.56  %
+Current time: 57 seconds
+ 17297 7918 4703
+Mean  9972.666666666666
+Stddev 5342.81
+Coefficient of variation = 53.57  %
+Current time: 58 seconds
+ 17295 7922 4698
+Mean  9971.666666666666
+Stddev 5343.03
+Coefficient of variation = 53.58  %
+Current time: 59 seconds
+ 17296 7921 4704
+Mean  9973.666666666666
+Stddev 5341.64
+Coefficient of variation = 53.56  %
+Current time: 60 seconds
+ 17297 7918 4706
+Mean  9973.666666666666
+Stddev 5341.83
+Coefficient of variation = 53.56  %
+Current time: 61 seconds
+ 17295 7917 4711
+Mean  9974.333333333334
+Stddev 5339.40
+Coefficient of variation = 53.53  %
+Current time: 62 seconds
+ 17295 7920 4704
+Mean  9973.0
+Stddev 5341.31
+Coefficient of variation = 53.56  %
+Current time: 63 seconds
+ 17294 7919 4703
+Mean  9972.0
+Stddev 5341.31
+Coefficient of variation = 53.56  %
+Current time: 64 seconds
+ 17295 7918 4705
+Mean  9972.666666666666
+Stddev 5341.24
+Coefficient of variation = 53.56  %
+Current time: 65 seconds
+ 17295 7920 4713
+Mean  9976.0
+Stddev 5338.35
+Coefficient of variation = 53.51  %
+Current time: 66 seconds
+ 17296 7920 4704
+Mean  9973.333333333334
+Stddev 5341.77
+Coefficient of variation = 53.56  %
+Current time: 67 seconds
+ 17298 7918 4704
+Mean  9973.333333333334
+Stddev 5342.94
+Coefficient of variation = 53.57  %
+Current time: 68 seconds
+ 17297 7920 4704
+Mean  9973.666666666666
+Stddev 5342.23
+Coefficient of variation = 53.56  %
+Current time: 69 seconds
+ 17296 7921 4705
+Mean  9974.0
+Stddev 5341.31
+Coefficient of variation = 53.55  %
+Current time: 71 seconds
+ 17296 7920 4704
+Mean  9973.333333333334
+Stddev 5341.77
+Coefficient of variation = 53.56  %
+Current time: 72 seconds
+ 17299 7920 4704
+Mean  9974.333333333334
+Stddev 5343.14
+Coefficient of variation = 53.57  %
+Current time: 73 seconds
+ 17299 7920 4703
+Mean  9974.0
+Stddev 5343.47
+Coefficient of variation = 53.57  %
+Current time: 74 seconds
+ 17298 7920 4704
+Mean  9974.0
+Stddev 5342.68
+Coefficient of variation = 53.57  %
+Current time: 75 seconds
+ 17299 7920 4701
+Mean  9973.333333333334
+Stddev 5344.13
+Coefficient of variation = 53.58  %
+Current time: 76 seconds
+ 17299 7918 4704
+Mean  9973.666666666666
+Stddev 5343.40
+Coefficient of variation = 53.58  %
+Current time: 77 seconds
+ 17299 7921 4703
+Mean  9974.333333333334
+Stddev 5343.34
+Coefficient of variation = 53.57  %
+Current time: 78 seconds
+ 17298 7921 4700
+Mean  9973.0
+Stddev 5343.87
+Coefficient of variation = 53.58  %
+Current time: 79 seconds
+ 17299 7917 4707
+Mean  9974.333333333334
+Stddev 5342.54
+Coefficient of variation = 53.56  %
+Current time: 80 seconds
+ 17298 7920 4705
+Mean  9974.333333333334
+Stddev 5342.35
+Coefficient of variation = 53.56  %
+Current time: 81 seconds
+ 17298 7922 4705
+Mean  9975.0
+Stddev 5342.10
+Coefficient of variation = 53.55  %
+Current time: 82 seconds
+ 17299 7920 4703
+Mean  9974.0
+Stddev 5343.47
+Coefficient of variation = 53.57  %
+Current time: 83 seconds
+ 17296 7921 4703
+Mean  9973.333333333334
+Stddev 5341.97
+Coefficient of variation = 53.56  %
+Current time: 84 seconds
+ 17296 7921 4703
+Mean  9973.333333333334
+Stddev 5341.97
+Coefficient of variation = 53.56  %
+Current time: 85 seconds
+ 17295 7923 4707
+Mean  9975.0
+Stddev 5339.94
+Coefficient of variation = 53.53  %
+Current time: 86 seconds
+ 17295 7921 4704
+Mean  9973.333333333334
+Stddev 5341.18
+Coefficient of variation = 53.55  %
+Current time: 87 seconds
+ 17296 7921 4706
+Mean  9974.333333333334
+Stddev 5340.98
+Coefficient of variation = 53.55  %
+Current time: 88 seconds
+ 17296 7920 4704
+Mean  9973.333333333334
+Stddev 5341.77
+Coefficient of variation = 53.56  %
+Current time: 89 seconds
+ 17296 7922 4705
+Mean  9974.333333333334
+Stddev 5341.18
+Coefficient of variation = 53.55  %
+Current time: 90 seconds
+ 17297 7922 4702
+Mean  9973.666666666666
+Stddev 5342.63
+Coefficient of variation = 53.57  %
+Current time: 91 seconds
+ 17299 7923 4705
+Mean  9975.666666666666
+Stddev 5342.43
+Coefficient of variation = 53.55  %
+Current time: 92 seconds
+ 17297 7923 4706
+Mean  9975.333333333334
+Stddev 5341.18
+Coefficient of variation = 53.54  %
+Current time: 93 seconds
+ 17297 7924 4701
+Mean  9974.0
+Stddev 5342.70
+Coefficient of variation = 53.57  %
+Current time: 95 seconds
+ 17297 7923 4702
+Mean  9974.0
+Stddev 5342.50
+Coefficient of variation = 53.56  %
+Current time: 96 seconds
+ 17299 7918 4704
+Mean  9973.666666666666
+Stddev 5343.40
+Coefficient of variation = 53.58  %
+Current time: 97 seconds
+ 17298 7925 4704
+Mean  9975.666666666666
+Stddev 5342.04
+Coefficient of variation = 53.55  %
+Current time: 98 seconds
+ 17296 7924 4706
+Mean  9975.333333333334
+Stddev 5340.60
+Coefficient of variation = 53.54  %
+Current time: 99 seconds
+ 17297 7923 4704
+Mean  9974.666666666666
+Stddev 5341.84
+Coefficient of variation = 53.55  %
+Current time: 100 seconds
+ 17296 7923 4705
+Mean  9974.666666666666
+Stddev 5341.06
+Coefficient of variation = 53.55  %
+Current time: 101 seconds
+ 17296 7922 4705
+Mean  9974.333333333334
+Stddev 5341.18
+Coefficient of variation = 53.55  %
+Current time: 102 seconds
+ 17295 7922 4706
+Mean  9974.333333333334
+Stddev 5340.40
+Coefficient of variation = 53.54  %
+Current time: 103 seconds
+ 17298 7921 4706
+Mean  9975.0
+Stddev 5341.90
+Coefficient of variation = 53.55  %
+Current time: 104 seconds
+ 17295 7920 4705
+Mean  9973.333333333334
+Stddev 5340.98
+Coefficient of variation = 53.55  %
+Current time: 105 seconds
+ 17295 7926 4704
+Mean  9975.0
+Stddev 5340.54
+Coefficient of variation = 53.54  %
+Current time: 106 seconds
+ 17296 7927 4704
+Mean  9975.666666666666
+Stddev 5340.87
+Coefficient of variation = 53.54  %
+Current time: 107 seconds
+ 17297 7926 4705
+Mean  9976.0
+Stddev 5341.13
+Coefficient of variation = 53.54  %
+Current time: 108 seconds
+ 17299 7927 4703
+Mean  9976.333333333334
+Stddev 5342.57
+Coefficient of variation = 53.55  %
+Current time: 109 seconds
+ 17296 7930 4704
+Mean  9976.666666666666
+Stddev 5340.49
+Coefficient of variation = 53.53  %
+Current time: 110 seconds
+ 17298 7929 4703
+Mean  9976.666666666666
+Stddev 5341.86
+Coefficient of variation = 53.54  %
+Current time: 111 seconds
+ 17298 7929 4705
+Mean  9977.333333333334
+Stddev 5341.20
+Coefficient of variation = 53.53  %
+Current time: 112 seconds
+ 17298 7926 4702
+Mean  9975.333333333334
+Stddev 5342.57
+Coefficient of variation = 53.56  %
+Current time: 113 seconds
+ 17297 7929 4704
+Mean  9976.666666666666
+Stddev 5341.07
+Coefficient of variation = 53.54  %
+Current time: 114 seconds
+ 17297 7930 4699
+Mean  9975.333333333334
+Stddev 5342.59
+Coefficient of variation = 53.56  %
+Current time: 115 seconds
+ 17296 7931 4705
+Mean  9977.333333333334
+Stddev 5340.03
+Coefficient of variation = 53.52  %
+Current time: 116 seconds
+ 17295 7931 4704
+Mean  9976.666666666666
+Stddev 5339.91
+Coefficient of variation = 53.52  %
+Current time: 117 seconds
+ 17295 7929 4705
+Mean  9976.333333333334
+Stddev 5339.83
+Coefficient of variation = 53.52  %
+Current time: 119 seconds
+ 17296 7931 4704
+Mean  9977.0
+Stddev 5340.36
+Coefficient of variation = 53.53  %
+Current time: 120 seconds
+ 17297 7928 4703
+Mean  9976.0
+Stddev 5341.53
+Coefficient of variation = 53.54  %
+Current time: 121 seconds
+ 17298 7930 4703
+Mean  9977.0
+Stddev 5341.73
+Coefficient of variation = 53.54  %
+Current time: 122 seconds
+ 17298 7931 4701
+Mean  9976.666666666666
+Stddev 5342.26
+Coefficient of variation = 53.55  %
+Current time: 123 seconds
+ 17298 7931 4702
+Mean  9977.0
+Stddev 5341.93
+Coefficient of variation = 53.54  %
+Current time: 124 seconds
+ 17299 7932 4703
+Mean  9978.0
+Stddev 5341.93
+Coefficient of variation = 53.54  %
+Current time: 125 seconds
+ 17299 7932 4703
+Mean  9978.0
+Stddev 5341.93
+Coefficient of variation = 53.54  %
+Current time: 126 seconds
+ 17299 7931 4705
+Mean  9978.333333333334
+Stddev 5341.40
+Coefficient of variation = 53.53  %
+Current time: 127 seconds
+ 17300 7932 4703
+Mean  9978.333333333334
+Stddev 5342.39
+Coefficient of variation = 53.54  %
+Current time: 128 seconds
+ 17299 7933 4702
+Mean  9978.0
+Stddev 5342.14
+Coefficient of variation = 53.54  %
+Current time: 129 seconds
+ 17301 7933 4708
+Mean  9980.666666666666
+Stddev 5341.07
+Coefficient of variation = 53.51  %
+Current time: 130 seconds
+ 17301 7931 4703
+Mean  9978.333333333334
+Stddev 5342.98
+Coefficient of variation = 53.55  %
+Current time: 131 seconds
+ 17301 7935 4697
+Mean  9977.666666666666
+Stddev 5344.44
+Coefficient of variation = 53.56  %
+Current time: 132 seconds
+ 17302 7931 4707
+Mean  9980.0
+Stddev 5342.12
+Coefficient of variation = 53.53  %
+Current time: 133 seconds
+ 17300 7933 4703
+Mean  9978.666666666666
+Stddev 5342.26
+Coefficient of variation = 53.54  %
+Current time: 134 seconds
+ 17298 7935 4708
+Mean  9980.333333333334
+Stddev 5339.45
+Coefficient of variation = 53.50  %
+Current time: 135 seconds
+ 17300 7933 4705
+Mean  9979.333333333334
+Stddev 5341.61
+Coefficient of variation = 53.53  %
+Current time: 136 seconds
+ 17297 7933 4703
+Mean  9977.666666666666
+Stddev 5340.89
+Coefficient of variation = 53.53  %
+Current time: 137 seconds
+ 17298 7933 4705
+Mean  9978.666666666666
+Stddev 5340.69
+Coefficient of variation = 53.52  %
+Current time: 138 seconds
+ 17298 7933 4704
+Mean  9978.333333333334
+Stddev 5341.02
+Coefficient of variation = 53.53  %
+Current time: 139 seconds
+ 17298 7934 4703
+Mean  9978.333333333334
+Stddev 5341.22
+Coefficient of variation = 53.53  %
+Current time: 140 seconds
+ 17297 7935 4701
+Mean  9977.666666666666
+Stddev 5341.30
+Coefficient of variation = 53.53  %
+Current time: 141 seconds
+ 17297 7932 4698
+Mean  9975.666666666666
+Stddev 5342.67
+Coefficient of variation = 53.56  %
+Current time: 143 seconds
+ 17296 7934 4705
+Mean  9978.333333333334
+Stddev 5339.65
+Coefficient of variation = 53.51  %
+Current time: 144 seconds
+ 17297 7933 4705
+Mean  9978.333333333334
+Stddev 5340.23
+Coefficient of variation = 53.52  %
+Current time: 145 seconds
+ 17295 7935 4705
+Mean  9978.333333333334
+Stddev 5339.07
+Coefficient of variation = 53.51  %
+Current time: 146 seconds
+ 17296 7935 4704
+Mean  9978.333333333334
+Stddev 5339.85
+Coefficient of variation = 53.51  %
+Current time: 147 seconds
+ 17295 7936 4706
+Mean  9979.0
+Stddev 5338.61
+Coefficient of variation = 53.50  %
+Current time: 148 seconds
+ 17297 7934 4706
+Mean  9979.0
+Stddev 5339.78
+Coefficient of variation = 53.51  %
+Current time: 149 seconds
+ 17295 7934 4701
+Mean  9976.666666666666
+Stddev 5340.51
+Coefficient of variation = 53.53  %
+Current time: 150 seconds
+ 17294 7935 4705
+Mean  9978.0
+Stddev 5338.61
+Coefficient of variation = 53.50  %
+Current time: 151 seconds
+ 17294 7933 4702
+Mean  9976.333333333334
+Stddev 5339.85
+Coefficient of variation = 53.53  %
+Current time: 152 seconds
+ 17296 7933 4702
+Mean  9977.0
+Stddev 5340.77
+Coefficient of variation = 53.53  %
+Current time: 153 seconds
+ 17295 7932 4699
+Mean  9975.333333333334
+Stddev 5341.42
+Coefficient of variation = 53.55  %
+Current time: 154 seconds
+ 17295 7933 4703
+Mean  9977.0
+Stddev 5339.98
+Coefficient of variation = 53.52  %
+Current time: 155 seconds
+ 17296 7935 4704
+Mean  9978.333333333334
+Stddev 5339.85
+Coefficient of variation = 53.51  %
+Current time: 156 seconds
+ 17296 7934 4704
+Mean  9978.0
+Stddev 5339.98
+Coefficient of variation = 53.52  %
+Current time: 157 seconds
+ 17295 7930 4706
+Mean  9977.0
+Stddev 5339.37
+Coefficient of variation = 53.52  %
+Current time: 158 seconds
+ 17297 7934 4703
+Mean  9978.0
+Stddev 5340.77
+Coefficient of variation = 53.53  %
+Current time: 159 seconds
+ 17295 7929 4702
+Mean  9975.333333333334
+Stddev 5340.82
+Coefficient of variation = 53.54  %
+Current time: 160 seconds
+ 17295 7933 4705
+Mean  9977.666666666666
+Stddev 5339.32
+Coefficient of variation = 53.51  %
+Current time: 161 seconds
+ 17295 7932 4702
+Mean  9976.333333333334
+Stddev 5340.44
+Coefficient of variation = 53.53  %
+Current time: 162 seconds
+ 17294 7933 4705
+Mean  9977.333333333334
+Stddev 5338.86
+Coefficient of variation = 53.51  %
+Current time: 163 seconds
+ 17294 7932 4702
+Mean  9976.0
+Stddev 5339.98
+Coefficient of variation = 53.53  %
+Current time: 164 seconds
+ 17294 7933 4705
+Mean  9977.333333333334
+Stddev 5338.86
+Coefficient of variation = 53.51  %
+Current time: 165 seconds
+ 17294 7934 4704
+Mean  9977.333333333334
+Stddev 5339.07
+Coefficient of variation = 53.51  %
+Current time: 167 seconds
+ 17296 7934 4705
+Mean  9978.333333333334
+Stddev 5339.65
+Coefficient of variation = 53.51  %
+Current time: 168 seconds
+ 17296 7927 4706
+Mean  9976.333333333334
+Stddev 5340.22
+Coefficient of variation = 53.53  %
+Current time: 169 seconds
+ 17295 7931 4700
+Mean  9975.333333333334
+Stddev 5341.22
+Coefficient of variation = 53.54  %
+Current time: 170 seconds
+ 17294 7931 4703
+Mean  9976.0
+Stddev 5339.78
+Coefficient of variation = 53.53  %
+Current time: 171 seconds
+ 17294 7931 4701
+Mean  9975.333333333334
+Stddev 5340.44
+Coefficient of variation = 53.54  %
+Current time: 172 seconds
+ 17293 7932 4706
+Mean  9977.0
+Stddev 5338.21
+Coefficient of variation = 53.51  %
+Current time: 173 seconds
+ 17295 7932 4703
+Mean  9976.666666666666
+Stddev 5340.11
+Coefficient of variation = 53.53  %
+Current time: 174 seconds
+ 17293 7933 4701
+Mean  9975.666666666666
+Stddev 5339.72
+Coefficient of variation = 53.53  %
+Current time: 175 seconds
+ 17291 7932 4710
+Mean  9977.666666666666
+Stddev 5335.98
+Coefficient of variation = 53.48  %
+Current time: 176 seconds
+ 17290 7929 4702
+Mean  9973.666666666666
+Stddev 5338.53
+Coefficient of variation = 53.53  %
+Current time: 177 seconds
+ 17291 7931 4709
+Mean  9977.0
+Stddev 5336.43
+Coefficient of variation = 53.49  %
+Current time: 178 seconds
+ 17290 7931 4708
+Mean  9976.333333333334
+Stddev 5336.30
+Coefficient of variation = 53.49  %
+Current time: 179 seconds
+ 17289 7930 4703
+Mean  9974.0
+Stddev 5337.62
+Coefficient of variation = 53.52  %
+Current time: 180 seconds

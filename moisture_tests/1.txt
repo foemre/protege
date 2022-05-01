@@ -1,0 +1,66 @@
+ 17359 17378 17467
+Mean  17401.333333333332
+Stddev 47.08
+Coefficient of variation = 0.27  %
+ 17361 17378 17468
+Mean  17402.333333333332
+Stddev 46.95
+Coefficient of variation = 0.27  %
+ 17360 17378 17467
+Mean  17401.666666666668
+Stddev 46.78
+Coefficient of variation = 0.27  %
+ 17358 17376 17464
+Mean  17399.333333333332
+Stddev 46.31
+Coefficient of variation = 0.27  %
+ 17359 17376 17466
+Mean  17400.333333333332
+Stddev 46.95
+Coefficient of variation = 0.27  %
+ 17356 17374 17462
+Mean  17397.333333333332
+Stddev 46.31
+Coefficient of variation = 0.27  %
+ 17361 17379 17468
+Mean  17402.666666666668
+Stddev 46.78
+Coefficient of variation = 0.27  %
+ 17358 17376 17464
+Mean  17399.333333333332
+Stddev 46.31
+Coefficient of variation = 0.27  %
+ 17356 17374 17463
+Mean  17397.666666666668
+Stddev 46.78
+Coefficient of variation = 0.27  %
+ 17358 17374 17463
+Mean  17398.333333333332
+Stddev 46.19
+Coefficient of variation = 0.27  %
+ 17353 17372 17461
+Mean  17395.333333333332
+Stddev 47.08
+Coefficient of variation = 0.27  %
+ 17359 17376 17465
+Mean  17400.0
+Stddev 46.48
+Coefficient of variation = 0.27  %
+ 17362 17380 17469
+Mean  17403.666666666668
+Stddev 46.78
+Coefficient of variation = 0.27  %
+ 17361 17379 17470
+Mean  17403.333333333332
+Stddev 47.71
+Coefficient of variation = 0.27  %
+ 17357 17376 17464
+Mean  17399.0
+Stddev 46.61
+Coefficient of variation = 0.27  %
+Traceback (most recent call last):
+  File "/home/pi/protege/moisture.py", line 51, in <module>
+    run_pump()
+  File "/home/pi/protege/moisture.py", line 40, in run_pump
+    time.sleep(1)
+KeyboardInterrupt

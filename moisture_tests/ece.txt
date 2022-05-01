@@ -1,0 +1,405 @@
+Pin 0: 64768.00
+Moving avg: 65024.00
+Stddev: 256.00
+Coeff of variance: 0.394 %
+
+Pin 0: 64768.00
+Moving avg: 65024.00
+Stddev: 256.00
+Coeff of variance: 0.394 %
+
+Pin 0: 64768.00
+Moving avg: 65018.88
+Stddev: 255.95
+Coeff of variance: 0.394 %
+
+Pin 0: 64768.00
+Moving avg: 65018.88
+Stddev: 255.95
+Coeff of variance: 0.394 %
+
+Pin 0: 64768.00
+Moving avg: 65013.76
+Stddev: 255.80
+Coeff of variance: 0.393 %
+
+Pin 0: 64768.00
+Moving avg: 65013.76
+Stddev: 255.80
+Coeff of variance: 0.393 %
+
+Pin 0: 64768.00
+Moving avg: 65008.64
+Stddev: 255.54
+Coeff of variance: 0.393 %
+
+Pin 0: 64512.00
+Moving avg: 65000.96
+Stddev: 258.79
+Coeff of variance: 0.398 %
+
+Pin 0: 64768.00
+Moving avg: 65000.96
+Stddev: 258.79
+Coeff of variance: 0.398 %
+
+Pin 0: 64768.00
+Moving avg: 64995.84
+Stddev: 258.28
+Coeff of variance: 0.397 %
+
+Pin 0: 64768.00
+Moving avg: 64995.84
+Stddev: 258.28
+Coeff of variance: 0.397 %
+
+Pin 0: 64768.00
+Moving avg: 64990.72
+Stddev: 257.67
+Coeff of variance: 0.396 %
+
+Pin 0: 64768.00
+Moving avg: 64990.72
+Stddev: 257.67
+Coeff of variance: 0.396 %
+
+Pin 0: 64768.00
+Moving avg: 64985.60
+Stddev: 256.96
+Coeff of variance: 0.395 %
+
+Pin 0: 64768.00
+Moving avg: 64985.60
+Stddev: 256.96
+Coeff of variance: 0.395 %
+
+Pin 0: 65280.00
+Moving avg: 64985.60
+Stddev: 256.96
+Coeff of variance: 0.395 %
+
+Pin 0: 64768.00
+Moving avg: 64985.60
+Stddev: 256.96
+Coeff of variance: 0.395 %
+
+Pin 0: 64768.00
+Moving avg: 64980.48
+Stddev: 256.14
+Coeff of variance: 0.394 %
+
+Pin 0: 64768.00
+Moving avg: 64980.48
+Stddev: 256.14
+Coeff of variance: 0.394 %
+
+Pin 0: 64768.00
+Moving avg: 64975.36
+Stddev: 255.22
+Coeff of variance: 0.393 %
+
+Pin 0: 64768.00
+Moving avg: 64975.36
+Stddev: 255.22
+Coeff of variance: 0.393 %
+
+Pin 0: 64768.00
+Moving avg: 64975.36
+Stddev: 255.22
+Coeff of variance: 0.393 %
+
+Pin 0: 64768.00
+Moving avg: 64970.24
+Stddev: 254.19
+Coeff of variance: 0.391 %
+
+Pin 0: 64768.00
+Moving avg: 64965.12
+Stddev: 253.05
+Coeff of variance: 0.390 %
+
+Pin 0: 64768.00
+Moving avg: 64965.12
+Stddev: 253.05
+Coeff of variance: 0.390 %
+
+Pin 0: 64768.00
+Moving avg: 64960.00
+Stddev: 251.81
+Coeff of variance: 0.388 %
+
+Pin 0: 64768.00
+Moving avg: 64960.00
+Stddev: 251.81
+Coeff of variance: 0.388 %
+
+Pin 0: 64768.00
+Moving avg: 64954.88
+Stddev: 250.45
+Coeff of variance: 0.386 %
+
+Pin 0: 64768.00
+Moving avg: 64949.76
+Stddev: 248.98
+Coeff of variance: 0.383 %
+
+Pin 0: 64768.00
+Moving avg: 64949.76
+Stddev: 248.98
+Coeff of variance: 0.383 %
+
+Pin 0: 64768.00
+Moving avg: 64944.64
+Stddev: 247.39
+Coeff of variance: 0.381 %
+
+Pin 0: 64768.00
+Moving avg: 64944.64
+Stddev: 247.39
+Coeff of variance: 0.381 %
+
+Pin 0: 64768.00
+Moving avg: 64939.52
+Stddev: 245.69
+Coeff of variance: 0.378 %
+
+Pin 0: 65280.00
+Moving avg: 64944.64
+Stddev: 247.39
+Coeff of variance: 0.381 %
+
+Pin 0: 64768.00
+Moving avg: 64939.52
+Stddev: 245.69
+Coeff of variance: 0.378 %
+
+Pin 0: 64768.00
+Moving avg: 64939.52
+Stddev: 245.69
+Coeff of variance: 0.378 %
+
+Pin 0: 64768.00
+Moving avg: 64934.40
+Stddev: 243.87
+Coeff of variance: 0.376 %
+
+Pin 0: 65280.00
+Moving avg: 64939.52
+Stddev: 245.69
+Coeff of variance: 0.378 %
+
+Pin 0: 64768.00
+Moving avg: 64934.40
+Stddev: 243.87
+Coeff of variance: 0.376 %
+
+Pin 0: 64768.00
+Moving avg: 64934.40
+Stddev: 243.87
+Coeff of variance: 0.376 %
+
+Pin 0: 65280.00
+Moving avg: 64934.40
+Stddev: 243.87
+Coeff of variance: 0.376 %
+
+Pin 0: 64768.00
+Moving avg: 64934.40
+Stddev: 243.87
+Coeff of variance: 0.376 %
+
+Pin 0: 64768.00
+Moving avg: 64929.28
+Stddev: 241.93
+Coeff of variance: 0.373 %
+
+Pin 0: 64768.00
+Moving avg: 64929.28
+Stddev: 241.93
+Coeff of variance: 0.373 %
+
+Pin 0: 64768.00
+Moving avg: 64929.28
+Stddev: 241.93
+Coeff of variance: 0.373 %
+
+Pin 0: 64768.00
+Moving avg: 64924.16
+Stddev: 239.86
+Coeff of variance: 0.369 %
+
+Pin 0: 64768.00
+Moving avg: 64924.16
+Stddev: 239.86
+Coeff of variance: 0.369 %
+
+Pin 0: 64512.00
+Moving avg: 64916.48
+Stddev: 240.64
+Coeff of variance: 0.371 %
+
+Pin 0: 64512.00
+Moving avg: 64913.92
+Stddev: 243.55
+Coeff of variance: 0.375 %
+
+Pin 0: 64512.00
+Moving avg: 64911.36
+Stddev: 246.40
+Coeff of variance: 0.380 %
+
+Pin 0: 64768.00
+Moving avg: 64911.36
+Stddev: 246.40
+Coeff of variance: 0.380 %
+
+Pin 0: 64768.00
+Moving avg: 64906.24
+Stddev: 243.99
+Coeff of variance: 0.376 %
+
+Pin 0: 64512.00
+Moving avg: 64903.68
+Stddev: 246.76
+Coeff of variance: 0.380 %
+
+Pin 0: 64512.00
+Moving avg: 64896.00
+Stddev: 246.88
+Coeff of variance: 0.380 %
+
+Pin 0: 64512.00
+Moving avg: 64888.32
+Stddev: 246.76
+Coeff of variance: 0.380 %
+
+Pin 0: 64512.00
+Moving avg: 64885.76
+Stddev: 249.31
+Coeff of variance: 0.384 %
+
+Pin 0: 64512.00
+Moving avg: 64878.08
+Stddev: 248.87
+Coeff of variance: 0.384 %
+
+Pin 0: 64512.00
+Moving avg: 64875.52
+Stddev: 251.30
+Coeff of variance: 0.387 %
+
+Pin 0: 64512.00
+Moving avg: 64867.84
+Stddev: 250.55
+Coeff of variance: 0.386 %
+
+Pin 0: 64512.00
+Moving avg: 64860.16
+Stddev: 249.57
+Coeff of variance: 0.385 %
+
+Pin 0: 64512.00
+Moving avg: 64857.60
+Stddev: 251.81
+Coeff of variance: 0.388 %
+
+Pin 0: 64768.00
+Moving avg: 64852.48
+Stddev: 248.35
+Coeff of variance: 0.383 %
+
+Pin 0: 64512.00
+Moving avg: 64849.92
+Stddev: 250.51
+Coeff of variance: 0.386 %
+
+Pin 0: 64512.00
+Moving avg: 64842.24
+Stddev: 248.98
+Coeff of variance: 0.384 %
+
+Pin 0: 64512.00
+Moving avg: 64839.68
+Stddev: 251.04
+Coeff of variance: 0.387 %
+
+Pin 0: 64768.00
+Moving avg: 64834.56
+Stddev: 247.20
+Coeff of variance: 0.381 %
+
+Pin 0: 64512.00
+Moving avg: 64832.00
+Stddev: 249.19
+Coeff of variance: 0.384 %
+
+Pin 0: 64512.00
+Moving avg: 64829.44
+Stddev: 251.14
+Coeff of variance: 0.387 %
+
+Pin 0: 64512.00
+Moving avg: 64821.76
+Stddev: 248.98
+Coeff of variance: 0.384 %
+
+Pin 0: 64768.00
+Moving avg: 64821.76
+Stddev: 248.98
+Coeff of variance: 0.384 %
+
+Pin 0: 64512.00
+Moving avg: 64814.08
+Stddev: 246.56
+Coeff of variance: 0.380 %
+
+Pin 0: 64768.00
+Moving avg: 64814.08
+Stddev: 246.56
+Coeff of variance: 0.380 %
+
+Pin 0: 64768.00
+Moving avg: 64808.96
+Stddev: 242.11
+Coeff of variance: 0.374 %
+
+Pin 0: 64768.00
+Moving avg: 64803.84
+Stddev: 237.46
+Coeff of variance: 0.366 %
+
+Pin 0: 64768.00
+Moving avg: 64803.84
+Stddev: 237.46
+Coeff of variance: 0.366 %
+
+Pin 0: 64512.00
+Moving avg: 64796.16
+Stddev: 234.33
+Coeff of variance: 0.362 %
+
+Pin 0: 64512.00
+Moving avg: 64793.60
+Stddev: 236.02
+Coeff of variance: 0.364 %
+
+Pin 0: 64512.00
+Moving avg: 64785.92
+Stddev: 232.54
+Coeff of variance: 0.359 %
+
+Pin 0: 64512.00
+Moving avg: 64783.36
+Stddev: 234.12
+Coeff of variance: 0.361 %
+
+Pin 0: 64512.00
+Moving avg: 64775.68
+Stddev: 230.27
+Coeff of variance: 0.355 %
+
+Pin 0: 64512.00
+Moving avg: 64773.12
+Stddev: 231.76
+Coeff of variance: 0.358 %
+
